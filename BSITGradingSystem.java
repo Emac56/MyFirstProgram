@@ -233,7 +233,7 @@ public class BSITGradingSystem {
         System.out.println(" °3.ITC:-" + ITC + "-" + remarks(ITC));
         System.out.println(" °4.UTS:-" + UTS + "-" + remarks(UTS));
         System.out.println(" °5.MCT:-" + MCT + "-" + remarks(MCT));
-        System.out.println(" °6.UTF:-" + ITF + "-" + remarks(ITF));
+        System.out.println(" °6.ITF:-" + ITF + "-" + remarks(ITF));
         System.out.println(" °7.NSTP1:-" + NSTP1 + "-" + remarks(NSTP1));
         System.out.println(" °8.MMW:-" + MMW + "-" + remarks(MMW));
         System.out.println(" °9.KKF:-" + KKF + "-" + remarks(KKF));
