@@ -1,4 +1,8 @@
-My name is Jaymark Vicente 
-I'm From Philippines Sablayan Occidental mindoro 
-This repository of mine contains my own code projects in Java. I am just a beginner in Java and still learning to code properly and professionally. I dream of having a job related to programming like being a junior software developer but I am currently studying BSIT at OMSC 1st year college.
-Thank you for reading! have a nice day!
+Hi! I'm Jaymark Vicente from Sablayan, Occidental Mindoro, Philippines.
+I’m currently a 1st-year BS Information Technology student at Occidental Mindoro State College (OMSC).
+
+This repository contains my personal Java projects, which I’ve created as part of my journey to improve my programming skills. I’m still a beginner in Java, but I’m continuously learning and striving to write clean, efficient, and professional code.
+
+My goal is to become a junior software developer, gain real-world experience, and eventually grow into a professional software engineer.
+
+Thank you for visiting my repository — have a great day!
